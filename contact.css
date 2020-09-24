@@ -1,0 +1,19 @@
+#n1 {
+    color: gold;
+}
+.nav {size: 500;}
+
+.container {float: center;}
+
+    
+body {
+    background-image: url(https://www.wallpaperboulevard.com/Images/product/angles-black-gold-jwni-l.jpg);
+}
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 15px;
+}

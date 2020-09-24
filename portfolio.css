@@ -1,0 +1,42 @@
+#n1 {
+    color: gold;
+}
+.nav {size: 500;}
+
+    
+body {
+    background-color: lightslategray;
+}
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+.card {
+    display: flex;
+    padding: 10px 30px;
+    justify-content: space-between;
+    margin-top: 10px;
+    /* align-items: flex-end; */
+}
+
+.col-6 {
+  display: flex;
+  justify-content: center;
+}
+
+/* @media (max-width: 991px) { 
+  .card {
+    flex-direction: column; */
+
+    /* left: 20px; */
+    /* position: relative; */
+    /* align-items: inherit; */
+    /* max-width: 100%; */
+    /* width: 100%; */
+  }   
+
+}
